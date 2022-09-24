@@ -1,0 +1,42 @@
+article {
+    
+    padding: 20px;
+    width: 100%;
+    background-color: #e9ecef;
+    height: auto;
+}
+
+#h2Tag {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#imgPro {
+    width: 100px;
+    height: 100px;
+}
+
+#idTable > a {
+    text-decoration: none;
+}
+
+#iEdit {
+    color: red;
+}
+
+#iDelete {
+    color: green;
+}
+
+#aEdit {
+    color: red;
+}
+
+#aDelete {
+    color: green;
+}
+
+#aButton {
+    color: #ffffff;
+    text-decoration: none;
+}
